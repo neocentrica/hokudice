@@ -1,0 +1,5 @@
+body {background-color: darkslateblue; margin: 0 auto; text-align: center; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+#tit {font-size: 3em;}
+#sub {font-size: 2em;}
+div {font-size: 2.5em;}
+button {font-size: 2em; background-color: darkslateblue; border-style: none; cursor: pointer; padding-top: 1%;}
