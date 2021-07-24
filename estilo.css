@@ -1,8 +1,8 @@
 body {background-color: darkslateblue; margin: 0 auto; text-align: center; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
 img {width: 720px;}
 #sub {font-size: 2em;}
-div {font-size: 2.5em;}
-button {font-size: 2em; background-color: darkslateblue; border-style: none; cursor: pointer; padding-top: 1%;}
+div {font-size: 2.5em; padding-bottom: 1%;}
+button {font-size: 2em; background-color: darkslateblue; border: black 2px; border-style: solid; cursor: pointer; box-sizing: border-box;  padding: 0.2em;}
 
 @media screen and (max-width:600px) {body{width: 98%;}
 img {width: 99%;}
