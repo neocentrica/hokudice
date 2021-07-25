@@ -1,27 +1,24 @@
-
-hom = ['el sol reverbera en la arena',
-        "las cejas en el medio tienen vellos",
-        "la tía en la cara se unta crema",
+hom = ["reverbera en la arena",
+        "cejas con pelos en el medio",
+        "en la cara se unta crema",
         "de sus labios la piel descaspa",
-        "el gordo se traga un eructo con el puño en la boca",
-        "desde la sala el cortauñas lo escuchan",
+        "el se traga un eructo",
+        "desde la sala lo escuchan",
         "raspadas arden las rodillas",
-        "el indiferente se acuesta en el frío suelo",
-        "el estudiante en clase cabecea",
-        "por insomnio en la cama me reacomodo"];
+        "se acuesta en el subsuelo",
+        "en la clase se cabecea",
+        "por insomnio me acomodo"];
 
-nat = ["me saco el dedo amarillo del oído",
-        "los recién nacidos polluelos",
-        "el pantano en el pasto se entiesa",
-        "el viento estremece las ramas",
-        "de la alcantarilla el agua rebosa",
+nat = ["del oído se lo saca",
+        "recién nacidos polluelos",
+        "el pantano se entiesa",
+        "se estremecen las ramas",
+        "la cloaca se rebosa",
         "las hojas secas se quiebran",
-        "las freidoras calientes efervescen",
-        "el marcador rechina en el tablero",
-        "la leña crepita en la hoguera",
-        "el transformador en la noche zumba"];
-
-
+        "las freidoras efervescen",
+        "rayando chilla la tabla",
+        "hoguera crepita leña",
+        "el transformador resuena"];
 
 function whatthehaiku(){
     hai = Math.floor(Math.random() * nat.length);
