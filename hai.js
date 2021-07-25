@@ -5,7 +5,7 @@ hom = ["reverbera en la arena",
         "el se traga un eructo",
         "desde la sala lo escuchan",
         "raspadas arden las rodillas",
-        "se acuesta en el subsuelo",
+        "en el subsuelo se acuesta",
         "en la clase se cabecea",
         "por insomnio me acomodo"];
 
