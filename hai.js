@@ -4,7 +4,7 @@ hom = ["reverbera en la arena",
         "de sus labios la piel descaspa",
         "el se traga un eructo",
         "desde la sala lo escuchan",
-        "raspadas arden las rodillas",
+        "las rodillas raspadas arden",
         "en el subsuelo se acuesta",
         "en la clase se cabecea",
         "por insomnio me acomodo"];
