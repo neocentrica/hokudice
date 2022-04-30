@@ -2,7 +2,7 @@ body {background-color: #B284BE; margin: 0 auto; text-align: center; font-family
 img {width: 720px;}
 #sub {font-size: 2em;}
 div {font-size: 3em; padding-bottom: 1%;}
-button {font-size: 2.5em; cursor: pointer; border: none; background-color: black; font-family: 'Yeseva One', cursive; color: #B284BE; padding: 0.5% 1%;}
+button {font-size: 2.5em; cursor: pointer; border: none; background-color: black; font-family: 'Yeseva One', cursive; color: #B284BE; padding: 10px 25px;}
 
 @media screen and (max-width:600px) {body{width: 98%;}
 img {width: 99%;}
