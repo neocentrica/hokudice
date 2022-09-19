@@ -16,7 +16,7 @@ nat = ["de la oreja lo saca",
         "el contador se rebosa",
         "las hojas secas se quiebran",
         "las freidoras efervescen",
-        "agudo chilla la tiza",
+        "la tiza chilla agudo",
         "hoguera crepita leña",
         "el transformador rezumba"];
 
